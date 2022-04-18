@@ -1,12 +1,12 @@
 
 
 export const COURSES: any = [
-    undefined,
+    // undefined,
     {
         id: 1,
         description: "Angular Core Deep Dive",
         longDescription: "A detailed walk-through of the most important part of Angular - the Core and Common modules",
-        category: 'INTERMEDIATE',
+        // category: 'INTERMEDIATE',
         lessonsCount: 10
     },
     {
